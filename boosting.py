@@ -23,7 +23,7 @@ class Fore:
 
 lc = (colorama.Fore.RESET + "[" + colorama.Fore.LIGHTMAGENTA_EX + ">" + colorama.Fore.RESET + "]")
     
-os.system(f"title boost tool By Arusch")    
+os.system(f"title boost tool By VatosV2 https://nexus-tools.de")    
 fingerprints = json.load(open("fingerprints.json", encoding="utf-8"))
 
 
